@@ -1,4 +1,4 @@
-<img width="1201" alt="Screenshot 2024-05-12 at 3 12 09 PM" src="https://github.com/NandiniRathod02/Elitmus/assets/140059581/7f8e92d2-a9c2-48cd-9c3e-ea11902f630e"># Elitmus
+# Elitmus
 
 ## Overview
 
