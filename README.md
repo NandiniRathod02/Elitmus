@@ -67,6 +67,9 @@ The aim of Elitmus is to help users focus on productivity by tracking and managi
 - [ ] Feedback and motivation features
 - [ ] False Negative detection
 
+## Video Link
+https://drive.google.com/file/d/1Jn4CxhYwvmbeETca1X96k7fFrcBWwFGC/view?usp=sharing
+
 ## Preview 
 
 <img width="1201" alt="Screenshot 2024-05-12 at 3 12 09 PM" src="https://github.com/NandiniRathod02/Elitmus/assets/140059581/e52a745c-4b7b-4292-8245-053f0daa6eb9">
